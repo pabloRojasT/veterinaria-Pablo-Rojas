@@ -1,0 +1,1 @@
+en models.py se utilizo github copilot chat para poder indicarme el max_length exacto que debe tener cada atributo de las clases
